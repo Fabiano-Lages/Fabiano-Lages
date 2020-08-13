@@ -1,4 +1,4 @@
-<h1>Fabiano Teixeira Lages<h1>
+<h2>Fabiano Teixeira Lages</h2>
 <br/>
 ## Olá pessoal
 <br/>Desenvolvedor desde o ano 2000, graduado na Centro Universitário Moacyr Sreder Bastos, e bastante inquieto para aprender novas 
@@ -7,7 +7,7 @@ linguagens de programação tecnologias.
 <br/>
 <br/>Estou trabalhando em uma empresa de tecnologia com desenvolvimento de sistemas desktop e web utilizando C#.
 <br/>
-<br/><h2>- PROJETOS</h2>
+<br/><h3>- PROJETOS</h3>
 <br/>
 <br/>Participei do desenvolvimento dos seguintes projetos:
 <br/>
@@ -26,7 +26,7 @@ Para garantir 100% do tempo operação, a aplicação local possui banco prórpi
 windows service / webservice, proporcionando uma comunicação com controle de atualização para que mesmo que a internet falhe, o service
 volte a sincronizar do ponto que parou. O sistema local consegue desta forma operar off-line.
 <br/>
-<br/><h2>- APRENDENDO</h2>
+<br/><h3>- APRENDENDO</h3>
 <br/>Estou aprendendo a utilizar o nodejs, o React e o React Native para desenvolvimento web, mobile e apis, aumentando assim as possibilidades do que 
 eu possa desenvolver.
 <br/>
