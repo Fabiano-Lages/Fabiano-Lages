@@ -1,6 +1,5 @@
-<h2>Fabiano Teixeira Lages</h2>
-<br/>
 ## Olá pessoal
+<h2>Fabiano Teixeira Lages</h2>
 <br/>Desenvolvedor desde o ano 2000, graduado na Centro Universitário Moacyr Sreder Bastos, e bastante inquieto para aprender novas 
 linguagens de programação tecnologias.
 <br/>Sou um FullStack Developer
@@ -8,7 +7,6 @@ linguagens de programação tecnologias.
 <br/>Estou trabalhando em uma empresa de tecnologia com desenvolvimento de sistemas desktop e web utilizando C#.
 <br/>
 <br/><h3>- PROJETOS</h3>
-<br/>
 <br/>Participei do desenvolvimento dos seguintes projetos:
 <br/>
 <br/><strong>Smartbee</strong> - Gestão de manutenção predial e de equipamentos, permitindo organizar o menor número de paradas garantindo assim, 
@@ -31,6 +29,6 @@ volte a sincronizar do ponto que parou. O sistema local consegue desta forma ope
 eu possa desenvolver.
 <br/>
 <br/>
-<br/>- 💬 Me pergunte sobre C#, HTML5, CSS3, javascript
+<br/>- 💬 Me perguntem sobre C#, HTML5, CSS3, javascript
 <br/>
 <br/>- 📫 email: fabianolages@gmail.com
