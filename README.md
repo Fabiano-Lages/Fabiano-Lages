@@ -25,7 +25,7 @@ windows service / webservice, proporcionando uma comunicação com controle de a
 volte a sincronizar do ponto que parou. O sistema local consegue desta forma operar off-line.
 <br />
 <br /><h3>- TREINAMENTO</h3>
-<br />Realizei um treinamento em 2020 para aprender a utilizar o nodejs, o React e o React Native para desenvolvimento web, mobile e apis, aumentando assim as possibilidades do que 
+<br />Realizei um treinamento em 2020 para aprender utilizar o nodejs, o React e o React Native para desenvolvimento web, mobile e apis, aumentando assim as possibilidades do que 
 eu possa desenvolver.
 <br />
 <br />
