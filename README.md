@@ -24,8 +24,8 @@ e interface desktop instalada no local para realização dos cálculos de calibr
 windows service / webservice, proporcionando uma comunicação com controle de atualização para que mesmo que a internet falhe, o service
 volte a sincronizar do ponto que parou. O sistema local consegue desta forma operar off-line.
 <br />
-<br /><h3>- APRENDENDO</h3>
-<br />Estou aprendendo a utilizar o nodejs, o React e o React Native para desenvolvimento web, mobile e apis, aumentando assim as possibilidades do que 
+<br /><h3>- TREINAMENTO</h3>
+<br />Realizei um treinamento em 2020 para aprender a utilizar o nodejs, o React e o React Native para desenvolvimento web, mobile e apis, aumentando assim as possibilidades do que 
 eu possa desenvolver.
 <br />
 <br />
