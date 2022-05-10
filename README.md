@@ -1,12 +1,20 @@
 ## Olá pessoal
-<h2>Fabiano Teixeira Lages</h2>
+<h2>Eu sou o Fabiano Lages</h2>
+<div>
+  <a href="https://github.com/Fabiano-Lages">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiano-lages&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-BR" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiano-lages&layout=compact&langs_count=16&theme=dracula&locale=pt-BR" />
+  </a>
+</div>
 <br/>Desenvolvedor desde o ano 2000, graduado na Centro Universitário Moacyr Sreder Bastos e bastante inquieto para aprender novas 
 linguagens de programação tecnologias.
 <br/>Sou um FullStack Developer
 <br/>
-<br/>Estou trabalhando na <a href='http://www.tenti.com.br/' target='novo'>TENTI tecnologia</a> com desenvolvimento de sistemas desktop e web utilizando C#.
-<br/>
-<br/><h3>- PROJETOS</h3>
+<br/>Estou trabalhando na <a href='http://www.tenti.com.br/' target='novo'>TENTI Tecnologia</a> com desenvolvimento de sistemas desktop e web utilizando C#.
+
+##
+
+<h3>- PROJETOS</h3>
 <br/>Participei no desenvolvimento dos seguintes projetos:
 <br/>
 <br/><strong>Smartbee</strong> - Gestão de manutenção predial e de equipamentos, permitindo organizar o menor número de paradas garantindo assim, 
@@ -25,10 +33,17 @@ windows service / webservice, proporcionando uma comunicação com controle de a
 volte a sincronizar do ponto que parou. O sistema local consegue desta forma operar off-line.
 <br />
 <br /><h3>- TREINAMENTO</h3>
-<br />Realizei um treinamento em 2020 para aprender utilizar o nodejs, o React e o React Native para desenvolvimento web, mobile e apis, aumentando assim as possibilidades do que 
-eu possa desenvolver.
+<br />Realizei um treinamento em 2020 para aprender utilizar o nodejs, o React e o React Native para desenvolvimento web, mobile e apis, aumentando assim as oportunidades de desenvolvimento.
+
+##
+
+<br />- 💬 Me perguntem sobre:
+<div>
+  <img src="csharp-original.svg" height="50px" title="C#" alt="C sharp" style="margin-left:5%" />
+  <img src="html5-plain-wordmark.svg" height="50px" title="HTML5" alt="HTML5" />
+  <img src="css3-plain-wordmark.svg" height="50px" title="CSS3" alt="CSS3" />
+  <img src="javascript-original.svg" height="50px" title="Javascript" alt="Javascript" />
+</div>
 <br />
 <br />
-<br />- 💬 Me perguntem sobre C#, HTML5, CSS3, javascript
-<br />
-<br />- 📫 email: fabianolages@gmail.com
+- 📫 email: <a href="mailto:fabianolages@gmail.com" target="novo">fabianolages@gmail.com</a>
